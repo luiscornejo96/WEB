@@ -5,7 +5,7 @@ body, html
 }
 .bg-image
 {
-  background-image: url("../Imagenes/Pinas.jpg");
+  background-image: url("../IMG/Pinas.jpg");
   
   filter: blur(6px);
   
